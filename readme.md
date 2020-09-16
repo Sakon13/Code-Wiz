@@ -1,4 +1,4 @@
-![logo](/logo.png)
+![logo](logo.png)
 # Code-Wiz
 This is a blog created by me related to programming tuts.
 
