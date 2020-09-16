@@ -1,4 +1,4 @@
-![logo](file://logo.png)
+![logo](https://github.com/Sakon13/Code-Wiz/blob/master/logo.png)
 # Code-Wiz
 This is a blog created by me related to programming tuts.
 
